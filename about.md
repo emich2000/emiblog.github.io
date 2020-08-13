@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Sobre esta pagina...
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+Fué programado con Jekyll con el tema Hamilton.
