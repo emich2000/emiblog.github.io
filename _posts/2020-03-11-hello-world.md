@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
-author: Shangzhi Huang
-date: 2020-03-11 18:42:53 +0800
-tags: [test, hello]
+title: Sobre mi
+author: Katherine Chilán
+date: 2020-08-13 15:00:00 +0800
+tags: [About me, My life]
 ---
 
-Hello World! This is a post for testing the looking of Hamilton.
+Hola a todos, Soy Katherine Emily Chilán Choez, tengo 20 años y vivo en Guayaquil, Ecuador. Nací el 14 de Julio de 2000.
