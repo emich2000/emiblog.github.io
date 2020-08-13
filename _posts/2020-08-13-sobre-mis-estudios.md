@@ -7,4 +7,7 @@ tags: [Estudios]
 permalink: /:year/:month/:day/sobre-mis-estudios
 ---
 
-Yo estudié en...
+Estudié primaria de primero a septimo en la Unidad Educativa Clara Bruno De Piana.
+Cursé estudios primarios de octavo a décimo en el Colegio Fiscal Juan Montalvo.
+Me gradué de bachillerato en el Colegio Fiscal Juan Montalvo, en la especialidad de Ciencias.
+Estoy actualmente estudiando en la Universidad de Guayaquil en la Facultad de Ciencias Matemáticas y Físicas en la carrera de Ingeniería en Software.
