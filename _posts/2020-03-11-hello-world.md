@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Hello World
+title: Sobre mi
 author: Katherine Chilán
 date: 2020-08-13 15:00:00 +0800
 tags: [About me, My life]
 ---
 
 Hola a todos, Soy Katherine Emily Chilán Choez, tengo 20 años y vivo en Guayaquil, Ecuador.
+Nací el 14 de Julio de 2000.
