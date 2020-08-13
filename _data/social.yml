@@ -1,6 +1,6 @@
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
+- title: Facebook
+  url: https://www.facebook.com/Emilychilan17
+  icon: fab fa-facebook
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/emich2000
   icon: fab fa-github
